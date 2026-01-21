@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/harshini-1121/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0389-find-the-difference](https://github.com/harshini-1121/Leetcode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshini-1121/Leetcode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/harshini-1121/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshini-1121/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Math
 |  |
@@ -83,5 +85,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/harshini-1121/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshini-1121/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/harshini-1121/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
