@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harshini-1121/Leetcode/tree/master/0046-permutations) |
+| [0136-single-number](https://github.com/harshini-1121/Leetcode/tree/master/0136-single-number) |
 ## Tree
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/harshini-1121/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/harshini-1121/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/harshini-1121/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
