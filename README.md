@@ -75,4 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshini-1121/Leetcode/tree/master/0136-single-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/harshini-1121/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Math
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/harshini-1121/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## String
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/harshini-1121/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
