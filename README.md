@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshini-1121/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/harshini-1121/Leetcode/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/harshini-1121/Leetcode/tree/master/0136-single-number) |
 ## Tree
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshini-1121/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/harshini-1121/Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
