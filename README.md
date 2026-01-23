@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/harshini-1121/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/harshini-1121/Leetcode/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/harshini-1121/Leetcode/tree/master/0136-single-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harshini-1121/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshini-1121/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/harshini-1121/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harshini-1121/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Tree
 |  |
 | ------- |
