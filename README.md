@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshini-1121/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshini-1121/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/harshini-1121/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/harshini-1121/Leetcode/tree/master/0048-rotate-image) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshini-1121/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshini-1121/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/harshini-1121/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshini-1121/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshini-1121/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/harshini-1121/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
