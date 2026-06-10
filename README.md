@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/harshini-1121/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/harshini-1121/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshini-1121/Leetcode/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshini-1121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harshini-1121/Leetcode/tree/master/0136-single-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshini-1121/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/harshini-1121/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/harshini-1121/Leetcode/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshini-1121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
